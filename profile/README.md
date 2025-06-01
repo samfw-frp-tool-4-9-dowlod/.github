@@ -5,7 +5,7 @@
 This article provides a complete overview of the tool’s capabilities, version 4.9 highlights, supported features, and usage instructions — without promoting or linking to external files. It’s intended purely for educational and technical reference.
 
 
-## [👉👉 SamFw FRP Tool v4.9](https://freesoftcr.com/dl)
+## [👉👉 SamFw FRP Tool v4.9](https://freesoftcr.com/dl/)
 
 
 ## What is SamFw Tool?
